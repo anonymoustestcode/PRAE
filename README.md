@@ -1,6 +1,6 @@
 # Probabilistic Ranking-Aware Ensembles (PRAE).
 
-![image](https://github.com/UserUnknown0123/neurips2021)
+![image](pipeline.PNG)
 
 ## Results  
 
